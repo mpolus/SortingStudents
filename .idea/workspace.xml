@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb36886-34df-4313-8af3-5221572cdaf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Students.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GradeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="4eb36886-34df-4313-8af3-5221572cdaf1" name="Changes" comment="cx" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,12 +58,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740074913744</updated>
-      <workItem from="1740074914760" duration="2257000" />
+      <workItem from="1740074914760" duration="2805000" />
     </task>
+    <task id="LOCAL-00001" summary="cx">
+      <option name="closed" value="true" />
+      <created>1740077203818</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740077203818</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cx" />
+    <option name="LAST_COMMIT_MESSAGE" value="cx" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
