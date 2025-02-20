@@ -10,7 +10,7 @@ public class Main {
         // TODO: sort then using reverseGrade.andThenComparing(age)
         students.sort(reverseGrade.thenComparing(age));
 
-        // TODO: print out the list.
+        // TODO: print out the list
 
 
     }
