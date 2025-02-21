@@ -1,16 +1,24 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
 
         var reverseGrade = new GradeComparator().reversed();
-        // TODO: create your age Comparator here call it age here.
+        var age = new AgeComparator();
 
-        // TODO: make your list of students.
-        Student.add(new Student("Alice", 10, 15 ));
+        List<Student> students = new ArrayList<>();
+        students.add(new Student("Alice", 10, 15 ));
+        students.add(new Student("Alexa", 11, 16 ));
+        students.add(new Student("Olivia", 12, 17 ));
+        students.add(new Student("Dylan", 9, 14 ));
 
-        // TODO: sort then using reverseGrade.andThenComparing(age)
         students.sort(reverseGrade.thenComparing(age));
+        students.sort(age.thenComparing(reverseGrade));
 
-        // TODO: print out the list
+        for (Student student : students) {
+            System.out.println(student);
+        }
 
 
     }

@@ -23,6 +23,6 @@ public class Student {
 
     @Override
     public String toString() {
-        return String.format("Name: %s, Grade: %d, Age: %d", name, age, grade);
+        return String.format("Name: %s, Grade: %d, Age: %d", name, grade, age);
     }
 }
